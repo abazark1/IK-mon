@@ -1,0 +1,165 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url("background.jpeg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.main{
+    position: relative;
+    z-index: 1;
+}
+.large{
+    text-align: center;
+    font-size: large;
+}
+.index{
+    text-align: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-container {
+    align-items: center;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    max-width: 150px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}
+.loginContain{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+.login{
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 30px;
+}
+.loginButton{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inputs label{
+    margin-bottom: 5px;
+}
+.inputs input{
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.inputs p{
+    margin-top: 0;
+}
+.login p{
+    margin-top: 20px;
+}
+.btnBuy{
+    width: 100%;
+    height: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+    background-color: #ecd86b;
+}
+.card img{
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+.details{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card2{
+    max-width: 400px;
+    max-height: 600px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.atrib{
+    font-weight: bold;
+}
+.card-image{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-image img{
+    width: 70%;
+    height: auto;
+}
+.card-details{
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    flex: 1;
+    padding: 20px;
+}
+.card-details h1,
+.card-details p{
+    margin: 0;
+    padding-bottom: 10px;
+}
+.fire {
+    background-color: #FF7F50;
+}
+.electric {
+    background-color: #FFD700;
+}
+.water {
+    background-color: #4169E1;
+}
+.grass {
+    background-color: #8FBC8F;
+}
+.bug {
+    background-color: #D2B48C;
+}
+.normal {
+    background-color: #EEE8AA
+}
+.poison {
+    background-color: #D8BFD8;
+}

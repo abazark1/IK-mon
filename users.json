@@ -1,0 +1,60 @@
+{
+    "659e762fb46c5": {
+        "id": "659e762fb46c5",
+        "username": "Vera",
+        "email": "version1@mail.ru",
+        "password": "version1",
+        "isAdmin": false,
+        "balance": 126.40000000000009,
+        "cards": [
+            "card7"
+        ],
+        "ownedCards": 1
+    },
+    "65a2962675960": {
+        "id": "65a2962675960",
+        "username": "John",
+        "email": "jjjjj@gjgjgjgj.bn",
+        "password": "123",
+        "isAdmin": false,
+        "balance": 150.20000000000005,
+        "cards": [
+            "card8"
+        ],
+        "ownedCards": 1
+    },
+    "65a2c3c06cb05": {
+        "id": "65a2c3c06cb05",
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "isAdmin": true,
+        "balance": 500,
+        "cards": [],
+        "ownedCards": 0
+    },
+    "65ad5b8d7caa5": {
+        "id": "65ad5b8d7caa5",
+        "username": "Sara",
+        "email": "sara123@hotmail.com",
+        "password": "sara123",
+        "isAdmin": false,
+        "balance": 276.2,
+        "cards": {
+            "1": "card4"
+        },
+        "ownedCards": 1
+    },
+    "65b7350bcfed0": {
+        "id": "65b7350bcfed0",
+        "username": "bekzhan",
+        "email": "beka@gmail.com",
+        "password": "bbb",
+        "isAdmin": false,
+        "balance": 274,
+        "cards": [
+            "65a2ce88e41e2"
+        ],
+        "ownedCards": 1
+    }
+}

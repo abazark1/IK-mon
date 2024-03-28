@@ -1,0 +1,160 @@
+{
+    "card0": {
+        "name": "Pikachu",
+        "type": "electric",
+        "hp": 60,
+        "attack": 20,
+        "defense": 20,
+        "price": 160,
+        "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/025.png",
+        "sold": false
+    },
+    "card1": {
+        "name": "Charizard",
+        "type": "fire",
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "price": 534,
+        "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png",
+        "sold": false
+    },
+    "card2": {
+        "name": "Bulbasaur",
+        "type": "grass",
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "price": 318,
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png",
+        "sold": false
+    },
+    "card3": {
+        "name": "Squirtle",
+        "type": "water",
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "price": 314,
+        "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png",
+        "sold": false
+    },
+    "card4": {
+        "name": "Caterpie",
+        "type": "bug",
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "price": 195,
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png",
+        "sold": true
+    },
+    "card5": {
+        "name": "Weedle",
+        "type": "bug",
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "price": 195,
+        "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png",
+        "sold": false
+    },
+    "card6": {
+        "name": "Pidgey",
+        "type": "normal",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "price": 251,
+        "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/016.png",
+        "sold": false
+    },
+    "card7": {
+        "name": "Rattata",
+        "type": "normal",
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "price": 253,
+        "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/019.png",
+        "sold": true
+    },
+    "card8": {
+        "name": "Spearow",
+        "type": "normal",
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "price": 262,
+        "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png",
+        "sold": true
+    },
+    "card9": {
+        "name": "Ekans",
+        "type": "poison",
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "price": 288,
+        "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/023.png",
+        "sold": false
+    },
+    "65a2cdddc604b": {
+        "name": "Ninetales",
+        "type": "fire",
+        "description": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+        "hp": "100",
+        "attack": "120",
+        "defense": "130",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/038.png",
+        "price": "834",
+        "sold": false,
+        "id": "65a2cdddc604b"
+    },
+    "65a2ce88e41e2": {
+        "name": "Emolga",
+        "type": "electric",
+        "description": "As Emolga flutters through the air, it crackles with electricity. This Pok\u00e9mon is cute, but it can cause a lot of trouble.",
+        "hp": "60",
+        "attack": "80",
+        "defense": "47",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/587.png",
+        "price": "226",
+        "sold": true,
+        "id": "65a2ce88e41e2"
+    },
+    "65ad61236f4e6": {
+        "name": "Quaxly",
+        "type": "water",
+        "description": "This Pok\u00e9mon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+        "hp": "40",
+        "attack": "35",
+        "defense": "39",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/912.png",
+        "price": "254",
+        "sold": false,
+        "id": "65ad61236f4e6"
+    },
+    "65ad6fd45ffa4": {
+        "name": "Nidoran",
+        "type": "poison",
+        "description": "The horn on a male Nidoran\u2019s forehead contains a powerful poison. This is a very cautious Pok\u00e9mon, always straining its large ears.",
+        "hp": "27",
+        "attack": "58",
+        "defense": "38",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/032.png",
+        "price": "231",
+        "sold": false,
+        "id": "65ad6fd45ffa4"
+    }
+}
